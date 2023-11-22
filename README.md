@@ -19,6 +19,7 @@
 </div><br/>
 
 ## 👥 Time
+### [Team Izabelly and Jacksom](https://github.com/TeamIJ)
 [![TeamIJ](https://avatars.githubusercontent.com/u/149711427?s=200&v=4)](https://github.com/TeamIJ)
 
 ## 💻 Projetos
