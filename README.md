@@ -23,7 +23,7 @@
 
 ## 💻 Projetos
 
-- [Linketree (Projeto do curso Discover da plataforma Rocketseat)](https://github.com/JacksomGuilherme/linktree)
+- [Linktree (Projeto do curso Discover da plataforma Rocketseat)](https://github.com/JacksomGuilherme/linktree)
 - [Scheduler](https://github.com/TeamIJ/scheduler)
 
 Fascinado por tecnologia e no desenvolvimento do conhecimento e habilidades.
