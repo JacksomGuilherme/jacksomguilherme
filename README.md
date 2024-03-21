@@ -11,7 +11,7 @@ Atualmente trabalho como **Desenvolvedor Full Stack** para a empresa Autbank Pro
     <img align="center" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" >
 </a>
 <a href="mailto:jacksom.guilherme@hotmail.com" target="_blank">
-    <img align="center" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" width="40" height="40" >
+    <img align="center" loading="lazy" src="https://www.whatcounts.com/wp-content/uploads/2020/10/Outlook.com_icon.svg-297x300.png" width="40" height="40" >
 </a>
 </div>
 
