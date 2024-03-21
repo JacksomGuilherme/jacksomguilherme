@@ -6,17 +6,26 @@ Atualmente trabalho como **Desenvolvedor Full Stack** para a empresa Autbank Pro
 
 ## Sociais
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacksom-guilherme/) [![Hotmail](https://img.shields.io/badge/HOTMAIL-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jacksom.guilherme@hotmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_jacksom.guilherme)
+<div style="display: flex; gap: 15px">
+<a href="[https://www.linkedin.com/in/izabelly-melo/](https://www.linkedin.com/in/jacksom-guilherme-0365741b4/)" target="_blank">
+    <img align="center" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" >
+</a>
+<a href="mailto:jacksom.guilherme@hotmail.com" target="_blank">
+    <img align="center" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" width="40" height="40" >
+</a>
+</div>
 
 
-## 🚀 Tecnologias que eu uso no meu dia
+## 🚀 Tecnologias e ferramentas que eu uso no meu dia
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<div style="display: flex; gap: 15px"><br/>
+    <img  align="center" alt="JavaScript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
+    <img  align="center" alt="Java"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
+    <img align="center" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
+    <img align="center" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40">
+    <img align="center" alt="React" src="//cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40">
+    <img align="center" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="40" height="40">
+    <img align="center" alt="Insomnia" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="40" height="40">
 </div><br/>
 
 ## 👥 Time
