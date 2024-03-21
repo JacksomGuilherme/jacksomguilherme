@@ -1,5 +1,5 @@
 
-### Olá, eu sou o Jacksom Guilherme! 🙋🏻‍♂️
+### Olá, eu sou o Jacksom Guilherme! Atualmente trabalho como Desenvolvedor Full Stack para a empresa Autbank Projetos e Consultoria Ltda. com mais de 4 anos de experiência.
 
 <br/>
 
