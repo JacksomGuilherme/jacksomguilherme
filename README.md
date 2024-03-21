@@ -7,7 +7,7 @@ Atualmente trabalho como **Desenvolvedor Full Stack** para a empresa Autbank Pro
 ## Sociais
 
 <div style="display: flex; gap: 15px">
-<a href="[https://www.linkedin.com/in/izabelly-melo/](https://www.linkedin.com/in/jacksom-guilherme-0365741b4/)" target="_blank">
+<a href="https://www.linkedin.com/in/jacksom-guilherme-0365741b4/" target="_blank">
     <img align="center" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" >
 </a>
 <a href="mailto:jacksom.guilherme@hotmail.com" target="_blank">
