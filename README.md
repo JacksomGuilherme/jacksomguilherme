@@ -22,6 +22,7 @@ Atualmente trabalho como **Desenvolvedor Full Stack** para a empresa Autbank Pro
     <img  align="center" alt="JavaScript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
     <img  align="center" alt="Java"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
     <img align="center" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"width="40" height="40"/>
+    <img align="center" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"width="40" height="40"/>
     <img align="center" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
     <img align="center" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40">
     <img align="center" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40">
