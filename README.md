@@ -21,7 +21,7 @@ Atualmente trabalho como **Desenvolvedor Full Stack** para a empresa Autbank Pro
 <div style="display: flex; gap: 15px"><br/>
     <img  align="center" alt="JavaScript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
     <img  align="center" alt="Java"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
-    <img align="center" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"width="40" height="40"/>
+    <img align="center" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"width="40" height="40" />
     <img align="center" alt="GoLang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"width="40" height="40"/>
     <img align="center" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
     <img align="center" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40">
@@ -36,6 +36,8 @@ Atualmente trabalho como **Desenvolvedor Full Stack** para a empresa Autbank Pro
 
 ## 💻 Projetos
 
+- [DevBook (Projeto final do curso de Golang)](https://github.com/JacksomGuilherme/DevBook)
+- [Space Shooter](https://github.com/JacksomGuilherme/Space-Shooter)
 - [Linktree (Projeto do curso Discover da plataforma Rocketseat)](https://github.com/JacksomGuilherme/linktree)
 - [Projeto Scheduler](https://github.com/TeamIJ/scheduler)
 
