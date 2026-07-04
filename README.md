@@ -86,9 +86,9 @@ Aplicação web otimizada para e-readers, permitindo controlar o Spotify pelo Ki
 
 **Tecnologias utilizadas:**
 
-![Go](https://img.shields.io/badge/-Go%201.24-00ADD8?style=flat-square&logo=go&logoColor=white) 
-![chi](https://img.shields.io/badge/-chi-00ADD8?style=flat-square) 
-![GORM](https://img.shields.io/badge/-GORM-00ADD8?style=flat-square)
+![Go](https://img.shields.io/badge/-Go%201.24-E6F1FB?style=flat-square&logo=go&logoColor=00ADD8)
+![chi](https://img.shields.io/badge/-chi-E6F1FB?style=flat-square&logo=go&logoColor=00ADD8)
+![GORM](https://img.shields.io/badge/-GORM-E6F1FB?style=flat-square&logo=go&logoColor=00ADD8)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![AES-256-GCM](https://img.shields.io/badge/-AES--256--GCM-2C3E50?style=flat-square&logo=letsencrypt&logoColor=white)
 ![securecookie](https://img.shields.io/badge/-securecookie-2C3E50?style=flat-square)
