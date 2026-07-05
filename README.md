@@ -47,6 +47,8 @@ Tenho interesse em desenvolvimento de sistemas robustos, integrações entre apl
 
 ### Scheduler — Sistema Web de Agendamento de Aulas e Treinamentos
 
+#### Projeto desenvolvido pelo time [Izabelly e Jacksom](https://github.com/TeamIJ)
+
 Sistema web desenvolvido para automatizar o agendamento de aulas de reposição e treinamentos, substituindo controles manuais feitos em planilhas.
 
 **Principais funcionalidades:**
